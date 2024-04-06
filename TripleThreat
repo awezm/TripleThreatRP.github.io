@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Server Information Portal</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS stylesheet -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"> <!-- Link to Google Fonts -->
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Welcome to Our FiveM Server</h1>
+            <nav>
+                <ul>
+                    <li><a href="#overview">Overview</a></li>
+                    <li><a href="#rules">Rules</a></li>
+                    <li><a href="#staff">Staff</a></li>
+                    <li><a href="#features">Features</a></li>
+                    <li><a href="#how-to-connect">How to Connect</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+		<section id="overview">
+    <div class="container">
+        <h2>Overview</h2>
+        <p>Welcome to our FiveM server!</p>
+        <p>Our server offers an immersive and exciting gaming experience for all players. Whether you're interested in law enforcement roleplay, civilian activities, or exploring the open world, there's something for everyone here.</p>
+        <p>With a dedicated staff team, active community, and a variety of custom scripts and features, you'll find plenty of opportunities for fun and adventure on our server.</p>
+        <p>Join us today and become part of our growing community!</p>
+    </div>
+		</section>
+
+		<section id="about-our-server">
+    <div class="container">
+        <h2>About Our Server</h2>
+        <p>Welcome to our FiveM server! Here's what you need to know about our server:</p>
+        <ul>
+            <li><strong>vMenu:</strong> Our server utilizes the vMenu script to provide players with a range of administrative and customization options. With vMenu, you can easily manage your player settings, spawn vehicles, teleport, and much more.</li>
+            <li><strong>FivePD:</strong> Experience the thrill of law enforcement roleplay with our FivePD script. Play as a police officer, sheriff's deputy, or other emergency service role and immerse yourself in realistic patrol scenarios, investigations, and traffic stops.</li>
+            <li><strong>Police Radio:</strong> Communicate effectively with other law enforcement personnel using our integrated police radio system. Coordinate responses, request backup, and stay informed about ongoing incidents in real-time.</li>
+            <li><strong>Active Staff:</strong> Our dedicated staff team is committed to ensuring a positive and enjoyable gaming experience for all players. If you have any questions, concerns, or need assistance, feel free to reach out to our active staff members for help.</li>
+        </ul>
+    </div>
+		</section>
+
+        <section id="rules" class="alt-bg">
+            <div class="container">
+                <h2>Rules</h2>
+                <ol>
+                    <li>Respectful Behavior:
+                        <ul>
+                            <li>Treat all players and staff members with respect and courtesy.</li>
+                            <li>Avoid using offensive language, discriminatory remarks, or engaging in harassment of any kind.</li>
+                        </ul>
+                    </li>
+                    <li>Roleplay Guidelines:
+                        <ul>
+                            <li>Engage in realistic and immersive roleplay interactions.</li>
+                            <li>Follow server-specific roleplay rules and guidelines to enhance the overall gaming experience.</li>
+                            <li>Use appropriate character names and avoid breaking character unless necessary.</li>
+                        </ul>
+                    </li>
+                    <li>vMenu Usage:
+                        <ul>
+                            <li>Use vMenu responsibly and avoid abusing its features.</li>
+                            <li>Refrain from spamming vehicle spawning, teleportation, or other administrative commands.</li>
+                            <li>Do not use vMenu to disrupt gameplay, spawn excessive vehicles, or cause server instability.</li>
+                        </ul>
+                    </li>
+                    <li>FivePD Gameplay:
+                        <ul>
+                            <li>Follow the server's law enforcement guidelines and procedures when playing as a police officer or other emergency service role.</li>
+                            <li>Respect the chain of command and cooperate with other players and staff members during patrol sessions.</li>
+                            <li>Do not engage in excessive force, abuse of authority, or other misconduct while playing as a law enforcement officer.</li>
+                        </ul>
+                    </li>
+                    <li>Server Rules:
+                        <ul>
+                            <li>Familiarize yourself with the server's rules and regulations, including those specific to vMenu and FivePD usage.</li>
+                            <li>Adhere to server-specific guidelines regarding character creation, vehicle modifications, server economy, etc.</li>
+                            <li>Report any rule violations or suspicious behavior to server staff promptly.</li>
+                        </ul>
+                    </li>
+                    <li>Communication:
+                        <ul>
+                            <li>Use in-game chat, voice chat, or Discord channels responsibly.</li>
+                            <li>Avoid spamming, excessive mic chatter, or disrupting communication channels.</li>
+                            <li>Communicate effectively with other players, especially during roleplay scenarios and emergency situations.</li>
+                        </ul>
+                    </li>
+                    <li>Community Engagement:
+                        <ul>
+                            <li>Participate in community events, roleplay scenarios, and server activities.</li>
+                            <li>Contribute positively to the server's community by helping other players, providing constructive feedback, and engaging in roleplay interactions.</li>
+                        </ul>
+                    </li>
+                    <li>Reporting Issues:
+                        <ul>
+                            <li>Report any bugs, glitches, or server-related issues to server staff using the appropriate channels.</li>
+                            <li>Provide detailed information and evidence when reporting rule violations, suspected cheaters, or disruptive behavior.</li>
+                        </ul>
+                    </li>
+                </ol>
+            </div>
+        </section>
+
+
+<section id="staff">
+    <div class="container">
+        <h2>Staff</h2>
+        <ul>
+            <li>Officer Panda - Owner</li>
+            <li>Derek - Co-Owner</li>
+			<li>Jack - Co-Owner</li>
+            <li>AwezmTv - Dev/Helper</li>
+            <!-- Add more staff members as needed -->
+        </ul>
+    </div>
+</section>
+
+		<section id="features" class="alt-bg">
+    <div class="container">
+        <h2>Features</h2>
+        <ul>
+            <li>Customizable player settings</li>
+            <li>Extensive vehicle options, including spawning and customization</li>
+            <li>Teleportation and waypoint system</li>
+            <li>Player statistics and achievements tracking</li>
+				<li>Comprehensive admin commands for server management</li>
+				<li>Realistic law enforcement roleplay with FivePD</li>
+				<li>Dynamic weather and day/night cycle</li>
+				<li>Custom vehicles, weapons, and clothing options</li>
+					<li>Active community events and roleplay scenarios</li>
+			</ul>
+			</div>
+		</section>
+
+        <section id="how-to-connect">
+            <div class="container">
+                <h2>How to Connect</h2>
+                <p>To join our server, follow these steps:</p>
+                <ol>
+                    <li>Download and install FiveM from <a href="https://fivem.net/" target="_blank">https://fivem.net/</a>.</li>
+                    <li>Launch FiveM and search for our server name in the server list.</li>
+                    <li>Click on our server to connect and start playing!</li>
+                </ol>
+            </div>
+        </section>
+
+        <section id="contact" class="alt-bg">
+            <div class="container">
+                <h2>Contact</h2>
+                <p>If you have any questions or need assistance, you can contact us at:</p>
+                <ul>
+                    <li>Email: N/A</li>
+                    <li>Discord: <a href="https://discord.gg/FJXvqXQ2Yn" target="_blank">Our Discord Link</a>.</</li>
+                    <!-- Add more contact information as needed -->
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Triple Threat RP - Site Created by AwezmTv</p>
+        </div>
+    </footer>
+</body>
+</html>
